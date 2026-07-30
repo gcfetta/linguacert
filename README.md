@@ -13,8 +13,8 @@ LinguaCert es una aplicación descentralizada (DApp) diseñada para revolucionar
 - **Blockchain & Smart Contracts:** Solidity v0.8.19 e integración Web3 mediante Ethers.js.
 
 ## 📦 Entregables del Proyecto
-- 📝 [Descargar Memoria Técnica](./docs/Memoria Tecnica - LinguaCert.pdf)
-- 📊 [Ver Lean Canvas Completo](./docs/Lean Canvas - LinguaCert.pdf)
+- 📝 [Descargar Memoria Técnica](./docs/Memoria_Tecnica_LinguaCert.pdf)
+- 📊 [Ver Lean Canvas Completo](./docs/Lean_Canvas_LinguaCert.pdf)
 - 🖼️ [Presentación Pitch Deck](./docs/Pitch_Deck_LinguaCert.pdf)
 - 🎥 [Enlace al Video Demo de la Aplicación](https://drive.google.com/file/d/1pZfU_LqAQimDqqn-tDjfX2m0Rj16IGtO)
 
